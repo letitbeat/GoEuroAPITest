@@ -1,11 +1,11 @@
 # GoEuroAPITest
-A simple REST client in Spring Boot to test API requests.
+A simple REST client in Spring Boot to test GoEuro API requests.
 
-###Compiling
+### Compiling
 
 `mvn install`
 
-###Running
+### Running
 
 1. Using Maven Spring Boot
 `mvn spring-boot:run -Drun.arguments=London`
